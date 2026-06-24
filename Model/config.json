@@ -1,0 +1,6 @@
+{
+  "notumor_threshold": 0.95,
+  "notumor_idx": 2,
+  "glioma_idx": 0,
+  "best_weighted_f2": 93.29
+}
