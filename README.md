@@ -8,3 +8,12 @@ A deep learning-based medical imaging project that classifies brain MRI scans in
 - No Tumor
 
 The project uses a custom CNN architecture, recall-focused F2 evaluation, and a deployed Streamlit application for real-time predictions.
+
+## Highlights
+
+- Removed 1,110 duplicate MRI scans using MD5 hashing
+- Built a custom CNN from scratch
+- Achieved 93.31% classification accuracy
+- Optimized for medical safety using F2-score
+- Implemented confidence thresholding for No-Tumor predictions
+- Deployed using Streamlit
